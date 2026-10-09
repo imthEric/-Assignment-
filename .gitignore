@@ -1,0 +1,3 @@
+# Compiled and build artifacts
+*.class
+bin/
